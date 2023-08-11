@@ -11,7 +11,10 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 
 # link do Screens
-https://ibb.co/TBNMbsg
-https://ibb.co/cksjSQg
-https://ibb.co/mtgmMCL
+https://ibb.co/TBNMbsg,
+
+https://ibb.co/cksjSQg,
+
+https://ibb.co/mtgmMCL,
+
 https://ibb.co/TWGq1vF
